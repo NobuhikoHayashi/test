@@ -49,6 +49,10 @@ p{
     font-color: 000;
 }
 
+li{
+    font-family: 'Noto Serif JP', serif;
+}
+
 a{
 color: black;
 }
