@@ -68,7 +68,7 @@ p,dt,dd,address{
     color: #CC33CC;
     letter-spacing: 1px;
     font-weight: 600;
-     font-size:150% ;
+     font-size:130% ;
 }
 
 #nav li,#f_nav li{
@@ -174,7 +174,7 @@ br{
 
 .descriptionL{
     text-align: left;
-    letter-spacing: 5px;
+    letter-spacing: 0px;
 }
 
 .descriptionL2{
@@ -220,14 +220,6 @@ br{
 }
 
 dd{
-    font-size: 150%;
-}
-
-#news{
-    clear:both;
-}
-
-#about p,#contact p{
     font-size: 150%;
 }
 
