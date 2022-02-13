@@ -73,6 +73,9 @@ p,dt,dd,address{
 
 #nav li,#f_nav li{
     display: block;
+      background: orange;
+  width: 100%;
+  height: 100%;
     padding: 10px 10px;
 }
 
